@@ -151,3 +151,6 @@ Training and evaluation generate:
 - SMAPE (Symmetric Mean Absolute Percentage Error)
 - R² (Coefficient of Determination)
 
+___
+
+See Wiki for more detailed information.
