@@ -1,1 +1,3 @@
+The repository contains code to my Master Thesis project on predicting long-term traffic. The model combines a Graph Attention Network (GAT) with a two branch temporal learning structure, splitting Short- and Long-Term predictions between multiple Graph Recurrent Units (GRUs) and a Long Short-Term Memory (LSTM) RNN. Temporal Attention modules are used for refined learning of patterns over time. The model takes windows of data up to $t$ and predicts a single matrix $OD_{t+h}$ at horizon length $h$. This is a novel approach, as predictions of similarly long time spans are absent from literature.
+
 
