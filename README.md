@@ -17,7 +17,7 @@ This project implements a deep learning model for predicting Origin-Destination 
 │   ├── __init__.py
 │   ├── fused_od_model.py      # Main FusedODModel implementation
 │   ├── gat_layer.py           # Graph Attention Layer
-│   ├── temporal_attention.py   # Temporal Attention mechanism
+│   ├── temporal_attention.py  # Temporal Attention mechanism
 │   └── losses.py              # Custom loss functions
 ├── training/
 │   ├── __init__.py
